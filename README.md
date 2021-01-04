@@ -1,0 +1,1 @@
+When learning something new on math, physics and so forth, it helps to implement them numerically such that I can do hands-on learning.
